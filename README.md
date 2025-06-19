@@ -22,7 +22,8 @@ A Python-based media player that uses your hand gestures to **play**, **pause**,
 ## 💻 Demo
 
 ![gesture demo](screenshots/demo.gif)  
-*(optional — add GIF or screenshots)*
+![image](https://github.com/user-attachments/assets/a27b8eca-81cd-4df5-9c18-a17cf7fa33da)
+
 
 ## 🚀 How to Run
 
